@@ -1,0 +1,1 @@
+# Deteksi-Fraktur-Tulang-pada-Citra-X-Ray-Menggunakan-Metode-Convolutional-Neural-Network-CNN-
